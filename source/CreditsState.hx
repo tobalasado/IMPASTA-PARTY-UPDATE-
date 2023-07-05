@@ -82,8 +82,10 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 	     ['Party Update'],
-             ['Tobal Asado',        'tobal',        'Director',                                '',    'FFFFFF'],            
-	     ['IMPASTA TEAM',        'discord',        'Creators of VS IMPASTA',                                '',    'FFFFFF']
+             ['Tobal Asado',        'tobal',        'Director',                                '',    'FFFFFF'],
+             ['MyFnf',        'fnf',        'Composed PartyMogus + Hevitate',                                '',    'FFFFFF'],             
+['JoseDev',        'jose',        'Coded in info cards',                                '',    'FFFFFF'],              
+
 	];
 
 		for(i in pisspoop){

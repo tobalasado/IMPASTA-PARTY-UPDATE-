@@ -26,14 +26,14 @@ using StringTools;
 
 class MainMenuState extends MusicBeatState
 {
-	public static var psychEngineVersion:String = '1.0.0';
+	public static var psychEngineVersion:String = '1.0';
 	public static var curSelected:Int = 0;
 
 	var menuItems:FlxTypedGroup<FlxSprite>;
 	private var camGame:FlxCamera;
 	private var camAchievement:FlxCamera;
 	
-	var optionShit:Array<String> = ['Story Mode', 'Freeplay', 'Credits', 'Options'];
+	var optionShit:Array<String> = ['Freeplay', 'Credits', 'Options'];
 
 	var camFollow:FlxObject;
 	var camFollowPos:FlxObject;
