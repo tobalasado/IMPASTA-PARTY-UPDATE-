@@ -1,1 +1,1 @@
-this is a mod.
+this is a fanmade mod.
