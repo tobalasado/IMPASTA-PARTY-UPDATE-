@@ -1,41 +1,50 @@
 {
-	"storyName": "Freeplay",
-	"difficulties": "hard",
-	"hideFreeplay": false,
-	"weekBackground": "",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"weekBefore": "",
-	"startUnlocked": true,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
 	"songs": [
 		[
-			"PartyMogus",
-			"none",
+			"Partymogus",
+			"party",
 			[
 				255,
-				0,
-				60
+				253,
+				253
+			]
+		],
+		[
+			"Hevitate",
+			"partypara",
+			[
+				26,
+				255,
+				255
 			]
 		],
 		[
 			"Grimace",
 			"happybirthday",
 			[
-				55,
-				0,
-				40
+				46,
+				33,
+				113
 			]
 		]
 	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": true,
-	"weekName": "Freeplay Week",
-	"hiddenUntilUnlocked": false
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }
